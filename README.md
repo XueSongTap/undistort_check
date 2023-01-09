@@ -1,9 +1,11 @@
 # 相机内参标定验证脚本
 
 ## 依赖
-opencv
-numpy
-matplotlib
+`opencv`
+
+`numpy`
+
+`matplotlib`
 
 ## 核心代码
 ```python
